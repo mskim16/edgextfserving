@@ -1,1 +1,1 @@
-# Tensorflow Serving TEST with EdgeX Platform
+# Tensorflow Serving test with EdgeX Platform
